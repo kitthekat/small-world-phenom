@@ -1,7 +1,5 @@
 """
 Christopher Kramer
-Algorithms for Data Science - Assignment 1 - SWP
-2020-1-26
 
 This Module uses Python's builtin Queue package for the MyQueue class.
 
