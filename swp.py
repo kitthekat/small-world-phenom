@@ -1,9 +1,5 @@
 """
 Christopher Kramer
-Algorithms for Data Science - Assignment 1 - SWP
-2020-1-26
-
-This module uses the custom MyQueue class built in Lab5.
 
 Despite several thousands of vertices with millions of edge traversals, no single node is more than
 8 edges away from any other.
